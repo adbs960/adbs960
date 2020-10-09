@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my project for the end of bootcamp. it's a solar system.
 
 <!--
 **adbs960/adbs960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
